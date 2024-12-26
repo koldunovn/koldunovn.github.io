@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<i class="fas fa-file-pdf"></i> [complete CV](/files/Curriculum_Vitae_Nikolay_Koldunov.pdf) 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Education**  
+======  
+* Ph.D. in Physical Oceanography, University of Hamburg, 2010  
+* M.Sc. in Applied Polar and Marine Science, University of Bremen, 2004  
+* M.Sc. in Hydrometeorology, State University of St. Petersburg, 2004  
+* B.Sc. in Oceanography, State University of St. Petersburg, 2002  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Work Experience**  
+======  
+* **Summer 2022 – Present: Senior Scientist**  
+  * Alfred Wegener Institute, Bremerhaven, Germany  
+  * Leading projects on high-resolution climate modeling and AI-based systems.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Summer 2020 – Summer 2022: Scientist**  
+  * Alfred Wegener Institute, Bremerhaven, Germany  
+  * High-resolution modeling and development of climate prediction systems.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Fall 2016 – Spring 2020: Scientist**  
+  * MARUM - Center for Marine Environmental Sciences, Bremen, Germany  
+  *  Developing and analyzing oceanographic models.
+
+* **Fall 2014 – Fall 2016: Scientist**  
+  * Climate Service Center Germany (GERICS), Hamburg, Germany
+
+* **Spring 2010 – Fall 2014: Scientist**  
+  * Institute of Oceanography, University of Hamburg, Hamburg, Germany  
+
+* **Spring 2006 – Spring 2010: Ph.D. Student**  
+  * Max Planck Institute for Meteorology, Hamburg, Germany
+
+* **Summer 2004 – Spring 2006: Research Assistant**  
+  * Arctic and Antarctic Research Institute, St. Petersburg, Russia
