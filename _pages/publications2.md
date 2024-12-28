@@ -12,6 +12,8 @@ You can also find my articles on <i class="ai ai-google-scholar"></i> [my Google
 Preprints
 ===
 
+John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., **Koldunov, N. V.**, Pedruzo-Bagazgoitia, X., Rackow, T., Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T. (in review). Global Storyline Simulations at the Kilometre-scale. *Journal of Advances in Modeling Earth Systems (JAMES)*. [https://doi.org/10.22541/essoar.173160166.64258929/v1](https://doi.org/10.22541/essoar.173160166.64258929/v1)
+
 Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., and Tietsche, S. (2024). Robustness of AI-based weather forecasts in a changing climate. *arXiv preprint*. [https://arxiv.org/abs/2409.18529](https://arxiv.org/abs/2409.18529)
 
 Oziel, L., Gürses, Ö., Torres-Valdes, S., Hoppe, C., Rost, B., Danek, C., Juhls, B., Voelker, C., **Koldunov, N.**, Wang, Q., and Iversen, M. (2024). Climate Change and terrigenous inputs decrease the efficiency of the future Arctic Ocean’s biological carbon pump.
