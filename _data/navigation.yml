@@ -13,6 +13,14 @@ main:
 
   # - title: "Publications"
   #   url: /publications/
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Visualization"
+    url: /portfolio/
+
+  - title: "Soft"
+    url: /software/   
 
   - title: "Talks"
     url: /talks/    
@@ -20,13 +28,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Data Viz"
-    url: /portfolio/
+
+
+
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
 
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Nikolay Koldunov - oceanographer and climate scientist, trying to understand our planet’s dynamics and making complex climate data accessible to everyone. My journey has taken me from the icy seas of the Arctic to supercomputers, where I use high-resolution models (and recently AI) to predict and understand climate change. 
+Hi, I’m Nikolay Koldunov - an oceanographer and climate scientist working to understanding our planet’s dynamics and making complex climate data accessible to everyone. I use high-resolution models (and recently, AI) on supercomputers to predict and analyze climate change. 
 
-I work at the [Alfred Wegener Institute](https://www.awi.de/), where I focus on high-resolution climate modeling, developing systems powered by large language models, and play with AI-based weather and climate models. I also enjoy creating data visualizations and sharing knowledge through teaching. You can explore more about these topics through the links above!
+At the [Alfred Wegener Institute](https://www.awi.de/), I focus on high-resolution climate modeling, developing systems powered by large language models, and experimenting with AI-based weather and climate models. I also enjoy creating data visualizations and teaching. Check out the links above to learn more!
