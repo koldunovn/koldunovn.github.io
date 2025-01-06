@@ -26,7 +26,7 @@ Rackow, T., Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Agurid
 2025
 ===
 
-[73] Oziel, L., Özgür Gürses, Sinhué Torres-Valdés, Clara J. M. Hoppe, Björn Rost, Onur Karakuş, Christopher Danek, Boris P. Koch, Cara Nissen, **Nikolay Koldunov**, Qiang Wang, Christoph Völker, Morten Iversen, Bennet Juhls & Judith Hauck  Climate Change and terrigenous inputs decrease the efficiency of the future Arctic Ocean’s biological carbon pump. *Nat. Clim. Chang.* (2025). [https://doi.org/10.1038/s41558-024-02233-6](https://doi.org/10.1038/s41558-024-02233-6)(https://doi.org/10.1038/s41558-024-02233-6)
+[73] Oziel, L., Özgür Gürses, Sinhué Torres-Valdés, Clara J. M. Hoppe, Björn Rost, Onur Karakuş, Christopher Danek, Boris P. Koch, Cara Nissen, **Nikolay Koldunov**, Qiang Wang, Christoph Völker, Morten Iversen, Bennet Juhls & Judith Hauck. (2025). Climate Change and terrigenous inputs decrease the efficiency of the future Arctic Ocean’s biological carbon pump. *Nat. Clim. Chang.* [https://doi.org/10.1038/s41558-024-02233-6](https://doi.org/10.1038/s41558-024-02233-6)
 
 2024
 ===
