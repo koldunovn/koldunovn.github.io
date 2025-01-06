@@ -17,13 +17,16 @@ John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossa
 
 Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., and Tietsche, S. (2024). Robustness of AI-based weather forecasts in a changing climate. *arXiv preprint*. [https://arxiv.org/abs/2409.18529](https://arxiv.org/abs/2409.18529)
 
-Oziel, L., Gürses, Ö., Torres-Valdes, S., Hoppe, C., Rost, B., Danek, C., Juhls, B., Voelker, C., **Koldunov, N.**, Wang, Q., and Iversen, M. (2024). Climate Change and terrigenous inputs decrease the efficiency of the future Arctic Ocean’s biological carbon pump.
-
 Moon, J.-Y., Streffing, J., Lee, S.-S., Semmler, T., Andrés-Martínez, M., Chen, J., Cho, E.-B., Chu, J.-E., Franzke, C., Gärtner, J. P., Ghosh, R., Hegewald, J., Hong, S., **Koldunov, N.**, Lee, J.-Y., Lin, Z., Liu, C., Loza, S., Park, W., Roh, W., Sein, D. V., Sharma, S., Sidorenko, D., Son, J.-H., Stuecker, M. F., Wang, Q., Yi, G., Zapponini, M., Jung, T., and Timmermann, A. (2024). Earth’s future climate and its variability simulated at 9 km global resolution. *EGUsphere* [preprint]. [https://doi.org/10.5194/egusphere-2024-2491](https://doi.org/10.5194/egusphere-2024-2491)
 
 **Koldunov, N.**, Rackow, T., Lessig, C., Danilov, S., Cheedela, S. K., Sidorenko, D., Sandu, I., and Jung, T. (2024). Emerging AI-based weather prediction models as downscaling tools. *arXiv preprint*. [https://arxiv.org/abs/2406.17977](https://arxiv.org/abs/2406.17977)
 
 Rackow, T., Pedruzo-Bagazgoitia, X., Becker, T., Milinski, S., Sandu, I., Aguridan, R., Bechtold, P., Beyer, S., Bidlot, J., Boussetta, S., Diamantakis, M., Dueben, P., Dutra, E., Forbes, R., Goessling, H. F., Hadade, I., Hegewald, J., Keeley, S., Kluft, L., **Koldunov, N.**, Koldunov, A., Kölling, T., Kousal, J., Mogensen, K., Quintino, T., Polichtchouk, I., Sármány, D., Sidorenko, D., Streffing, J., Sützl, B., Takasuka, D., Tietsche, S., Valentini, M., Vannière, B., Wedi, N., Zampieri, L., and Ziemen, F. (2024). Multi-year simulations at kilometre scale with the Integrated Forecasting System coupled to FESOM2.5/NEMOv3.4. *EGUsphere* [preprint]. [https://doi.org/10.5194/egusphere-2024-913](https://doi.org/10.5194/egusphere-2024-913)
+
+2025
+===
+
+[73] Oziel, L., Özgür Gürses, Sinhué Torres-Valdés, Clara J. M. Hoppe, Björn Rost, Onur Karakuş, Christopher Danek, Boris P. Koch, Cara Nissen, **Nikolay Koldunov**, Qiang Wang, Christoph Völker, Morten Iversen, Bennet Juhls & Judith Hauck  Climate Change and terrigenous inputs decrease the efficiency of the future Arctic Ocean’s biological carbon pump. *Nat. Clim. Chang.* (2025). [https://doi.org/10.1038/s41558-024-02233-6](https://doi.org/10.1038/s41558-024-02233-6)(https://doi.org/10.1038/s41558-024-02233-6)
 
 2024
 ===
