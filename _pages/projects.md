@@ -23,7 +23,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center;">
     <img src="../images/terradt.png" alt="TerraDT" style="width: 200px; margin-right: 20px;">
-    <div><strong><a href="">TerraDT</a></strong>: In this project, we aim to enhance the DestinE infrastructure by adding to and improving the existing Earth system components of DestinE Digital Twins, with a particular focus on the cryosphere and land surface. This will improve the reliability of the climate projections and impact assessments of DestinE. I lead Pillar 5 (Cryosphere, WP11-13) and serve as a member of the TerraDT Project Management Board.
+    <div><strong><a href="https://www.terradt.eu/">TerraDT</a></strong>: In this project, we aim to enhance the DestinE infrastructure by adding to and improving the existing Earth system components of DestinE Digital Twins, with a particular focus on the cryosphere and land surface. This will improve the reliability of the climate projections and impact assessments of DestinE. I lead Pillar 5 (Cryosphere, WP11-13) and serve as a member of the TerraDT Project Management Board.
 </div>
 </div>
 
