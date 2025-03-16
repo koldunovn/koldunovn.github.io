@@ -12,6 +12,8 @@ You can also find my articles on <i class="ai ai-google-scholar"></i> [my Google
 Preprints
 ===
 
+Pantiukhin, Dmitrii, Boris Shapkin, Ivan Kuznetsov, Antonia Anna Jost, and **Nikolay Koldunov**. "Accelerating Earth Science Discovery via Multi-Agent LLM Systems." arXiv preprint [arXiv:2503.05854](https://doi.org/10.48550/arXiv.2503.05854) (2025).
+
 Segura, H., et al.,: nextGEMS: entering the era of kilometer-scale Earth system modeling, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2025-509](https://doi.org/10.5194/egusphere-2025-509), 2025.
 
 John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., **Koldunov, N. V.**, Pedruzo-Bagazgoitia, X., Rackow, T., Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T. (in review). Global Storyline Simulations at the Kilometre-scale. *Journal of Advances in Modeling Earth Systems (JAMES)*. [https://doi.org/10.22541/essoar.173160166.64258929/v1](https://doi.org/10.22541/essoar.173160166.64258929/v1)
