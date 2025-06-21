@@ -26,6 +26,7 @@ Moon, J.-Y., Streffing, J., Lee, S.-S., Semmler, T., Andrés-Martínez, M., Chen
 
 2025
 ===
+[76] Wedi, N et al., Implementing digital twin technology of the earth system in Destination Earth, Journal of the European Meteorological Society, Volume 3, 2025, 100015, ISSN 2950-6301, [https://doi.org/10.1016/j.jemets.2025.100015](https://doi.org/10.1016/j.jemets.2025.100015).
 
 [75] Bastin, S., Koldunov, A., Schütte, F., Gutjahr, O., Mrozowska, M. A., Fischer, T., Shevchenko, R., Kumar, A., **Koldunov, N.**, Haak, H., Brüggemann, N., Hummels, R., Specht, M. S., Jungclaus, J., Danilov, S., Dengler, M., and Jochum, M.: Sensitivity of the tropical Atlantic to vertical mixing in two ocean models (ICON-O v2.6.6 and FESOM v2.5), Geosci. Model Dev., 18, 1189–1220, [https://doi.org/10.5194/gmd-18-1189-2025](https://doi.org/10.5194/gmd-18-1189-2025), 2025.
 
