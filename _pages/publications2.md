@@ -20,12 +20,12 @@ John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossa
 
 Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., and Tietsche, S. (2024). Robustness of AI-based weather forecasts in a changing climate. *arXiv preprint*. [https://arxiv.org/abs/2409.18529](https://arxiv.org/abs/2409.18529)
 
-Moon, J.-Y., Streffing, J., Lee, S.-S., Semmler, T., Andrés-Martínez, M., Chen, J., Cho, E.-B., Chu, J.-E., Franzke, C., Gärtner, J. P., Ghosh, R., Hegewald, J., Hong, S., **Koldunov, N.**, Lee, J.-Y., Lin, Z., Liu, C., Loza, S., Park, W., Roh, W., Sein, D. V., Sharma, S., Sidorenko, D., Son, J.-H., Stuecker, M. F., Wang, Q., Yi, G., Zapponini, M., Jung, T., and Timmermann, A. (2024). Earth’s future climate and its variability simulated at 9 km global resolution. *EGUsphere* [preprint]. [https://doi.org/10.5194/egusphere-2024-2491](https://doi.org/10.5194/egusphere-2024-2491)
-
 **Koldunov, N.**, Rackow, T., Lessig, C., Danilov, S., Cheedela, S. K., Sidorenko, D., Sandu, I., and Jung, T. (2024). Emerging AI-based weather prediction models as downscaling tools. *arXiv preprint*. [https://arxiv.org/abs/2406.17977](https://arxiv.org/abs/2406.17977)
 
 2025
 ===
+[77] Moon, J.-Y., Streffing, J., Lee, S.-S., Semmler, T., Andrés-Martínez, M., Chen, J., Cho, E.-B., Chu, J.-E., Franzke, C. L. E., Gärtner, J. P., Ghosh, R., Hegewald, J., Hong, S., Kim, D.-W., **Koldunov, N.**, Lee, J.-Y., Lin, Z., Liu, C., Loza, S. N., Park, W., Roh, W., Sein, D. V., Sharma, S., Sidorenko, D., Son, J.-H., Stuecker, M. F., Wang, Q., Yi, G., Zapponini, M., Jung, T., and Timmermann, A.: Earth's future climate and its variability simulated at 9 km global resolution, Earth Syst. Dynam., 16, 1103–1134, [https://doi.org/10.5194/esd-16-1103-2025](https://doi.org/10.5194/esd-16-1103-2025), 2025.
+
 [76] Wedi, N et al., Implementing digital twin technology of the earth system in Destination Earth, Journal of the European Meteorological Society, Volume 3, 2025, 100015, ISSN 2950-6301, [https://doi.org/10.1016/j.jemets.2025.100015](https://doi.org/10.1016/j.jemets.2025.100015).
 
 [75] Bastin, S., Koldunov, A., Schütte, F., Gutjahr, O., Mrozowska, M. A., Fischer, T., Shevchenko, R., Kumar, A., **Koldunov, N.**, Haak, H., Brüggemann, N., Hummels, R., Specht, M. S., Jungclaus, J., Danilov, S., Dengler, M., and Jochum, M.: Sensitivity of the tropical Atlantic to vertical mixing in two ocean models (ICON-O v2.6.6 and FESOM v2.5), Geosci. Model Dev., 18, 1189–1220, [https://doi.org/10.5194/gmd-18-1189-2025](https://doi.org/10.5194/gmd-18-1189-2025), 2025.
