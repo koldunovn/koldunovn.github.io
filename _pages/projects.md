@@ -61,7 +61,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center;">
     <img src="../images/HClimRep.png" alt="HClimRep" style="width: 200px; margin-right: 20px;">
-    <div><strong><a href="[https://helmholtz.software/software/awi-gpt](https://hclimrep-project.de/)">HClimRep</a></strong>: In this project we build first AI foundation models for climate research that combines data from the atmosphere, the ocean and sea ice. AWIs part is to develop ocean component of this model. I contribute ocean model data and climate expertise.
+    <div><strong><a href="https://helmholtz.software/software/awi-gpt">HClimRep</a></strong>: In this project we build first AI foundation models for climate research that combines data from the atmosphere, the ocean and sea ice. AWIs part is to develop ocean component of this model. I contribute ocean model data and climate expertise.
     </div>
 </div>
 
