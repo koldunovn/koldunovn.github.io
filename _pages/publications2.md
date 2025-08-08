@@ -12,6 +12,8 @@ You can also find my articles on <i class="ai ai-google-scholar"></i> [my Google
 Preprints
 ===
 
+Müller, V., Wang, Q., Koldunov, N. V., Danilov, S., & Jung, T. (2025). Characteristics of coherent Eddies in the Arctic Eurasian Basin Halocline inferred from a Model Simulation at 1-km Resolution. Authorea Preprints. [10.22541/essoar.175433986.68396763/v1](https://essopenarchive.org/users/887387/articles/1321085-characteristics-of-coherent-eddies-in-the-arctic-eurasian-basin-halocline-inferred-from-a-model-simulation-at-1-km-resolution)
+
 Pantiukhin, Dmitrii, Boris Shapkin, Ivan Kuznetsov, Antonia Anna Jost, and **Nikolay Koldunov**. "Accelerating Earth Science Discovery via Multi-Agent LLM Systems." arXiv preprint [arXiv:2503.05854](https://doi.org/10.48550/arXiv.2503.05854) (2025).
 
 Segura, H., et al.,: nextGEMS: entering the era of kilometer-scale Earth system modeling, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2025-509](https://doi.org/10.5194/egusphere-2025-509), 2025.
