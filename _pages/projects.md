@@ -34,12 +34,6 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/next-gems-logo.svg" alt="nextGEMS" style="width: 200px; margin-right: 20px;">
-    <div><strong><a href="https://nextgems-h2020.eu/">nextGEMS</a></strong>: In this project, we are developing next generation (storm-resolving) Earth-system Models, capable of running at 2.5 km resolution. By achieving unprecedented realism in simulations, these models will enable us to understand and reliably quantify future climate changes on both global and regional scales, as well as predict future weather patterns, including extreme events. I contribute to ocean spinups using FESOM and to the development of methods for efficient data analysis and visualization of very high-resolution data.
-</div>
-</div>
-
-<div style="display: flex; align-items: center;">
     <img src="../images/elphe.png" alt="ELPHE" style="width: 200px; margin-right: 20px;">
     <div><strong><a href="">ELPHE</a></strong>: Enabling Lagrangian Particle Tracking for High-Resolution and Unstructured Meshes: In this project, led by GEOMAR, we aim to adapt <a href="https://oceanparcels.org/">Parcels</a> - a Lagrangian Ocean Analysis toolbox - to work with data from unstructured mesh ocean models FESOM2 and ICON-O. This is part of the <a href="https://www.warmworld.de/">WarmWorld</a> project. I provide FESOM2 simulations.
 </div>
@@ -73,6 +67,12 @@ author_profile: true
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
+<div style="display: flex; align-items: center;">
+    <img src="../images/next-gems-logo.svg" alt="nextGEMS" style="width: 200px; margin-right: 20px;">
+    <div><strong><a href="https://nextgems-h2020.eu/">nextGEMS</a></strong>: In this project, we are developing next generation (storm-resolving) Earth-system Models, capable of running at 2.5 km resolution. By achieving unprecedented realism in simulations, these models will enable us to understand and reliably quantify future climate changes on both global and regional scales, as well as predict future weather patterns, including extreme events. I contribute to ocean spinups using FESOM and to the development of methods for efficient data analysis and visualization of very high-resolution data.
+</div>
+</div>
+    
 <div style="display: flex; align-items: center;">
     <img src="../images/eflows4hpc.svg" alt="eFlows4HPC" style="width: 200px; margin-right: 20px;">
     <div><strong><a href="https://eflows4hpc.eu/">eFlows4HPC</a></strong>: aims to deliver a workflow software stack and an additional set of services to enable the integration of HPC simulations and modelling with big data analytics and machine learning in scientific and industrial applications. I lead AWI’s contributions in WP5 (Pillar 2).
