@@ -29,6 +29,8 @@ Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Cla
 
 2025
 ===
+[78] Kuznetsov, I., Jost, A.A., Pantiukhin, D., Shapkin, B., Jung. T., and **Koldunov N**. Transforming climate services with LLMs and multi-source data integration. npj Clim. Action 4, 97 (2025). [https://doi.org/10.1038/s44168-025-00300-y](https://doi.org/10.1038/s44168-025-00300-y)
+
 [77] Moon, J.-Y., Streffing, J., Lee, S.-S., Semmler, T., Andrés-Martínez, M., Chen, J., Cho, E.-B., Chu, J.-E., Franzke, C. L. E., Gärtner, J. P., Ghosh, R., Hegewald, J., Hong, S., Kim, D.-W., **Koldunov, N.**, Lee, J.-Y., Lin, Z., Liu, C., Loza, S. N., Park, W., Roh, W., Sein, D. V., Sharma, S., Sidorenko, D., Son, J.-H., Stuecker, M. F., Wang, Q., Yi, G., Zapponini, M., Jung, T., and Timmermann, A.: Earth's future climate and its variability simulated at 9 km global resolution, Earth Syst. Dynam., 16, 1103–1134, [https://doi.org/10.5194/esd-16-1103-2025](https://doi.org/10.5194/esd-16-1103-2025), 2025.
 
 [76] Wedi, N et al., Implementing digital twin technology of the earth system in Destination Earth, Journal of the European Meteorological Society, Volume 3, 2025, 100015, ISSN 2950-6301, [https://doi.org/10.1016/j.jemets.2025.100015](https://doi.org/10.1016/j.jemets.2025.100015).
