@@ -27,7 +27,7 @@ Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Cla
 
 2025
 ===
-[79] Pantiukhin D, Shapkin B, Kuznetsov I, Jost AA and **Koldunov N** (2025) Accelerating earth science discovery via multi-agent LLM systems. *Front. Artif. Intell.* 8:1674927. doi: [10.3389/frai.2025.1674927](https://doi.org/10.1038/s44168-025-00300-y](https://doi.org/10.3389/frai.2025.1674927)
+[79] Pantiukhin D, Shapkin B, Kuznetsov I, Jost AA and **Koldunov N** (2025) Accelerating earth science discovery via multi-agent LLM systems. *Front. Artif. Intell.* 8:1674927. doi: [10.3389/frai.2025.1674927](https://doi.org/10.3389/frai.2025.1674927)
 
 [78] Kuznetsov, I., Jost, A.A., Pantiukhin, D., Shapkin, B., Jung. T., and **Koldunov N**. Transforming climate services with LLMs and multi-source data integration. *npj Clim. Action* 4, 97 (2025). [https://doi.org/10.1038/s44168-025-00300-y](https://doi.org/10.1038/s44168-025-00300-y)
 
