@@ -17,8 +17,6 @@ Doblas-Reyes, et al.,: The Destination Earth digital twin for climate change ada
 
 Müller, V., Wang, Q., Koldunov, N. V., Danilov, S., & Jung, T. (2025). Characteristics of coherent Eddies in the Arctic Eurasian Basin Halocline inferred from a Model Simulation at 1-km Resolution. Authorea Preprints. [10.22541/essoar.175433986.68396763/v1](https://essopenarchive.org/users/887387/articles/1321085-characteristics-of-coherent-eddies-in-the-arctic-eurasian-basin-halocline-inferred-from-a-model-simulation-at-1-km-resolution)
 
-Segura, H., et al.,: nextGEMS: entering the era of kilometer-scale Earth system modeling, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2025-509](https://doi.org/10.5194/egusphere-2025-509), 2025.
-
 John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., **Koldunov, N. V.**, Pedruzo-Bagazgoitia, X., Rackow, T., Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T. (in review). Global Storyline Simulations at the Kilometre-scale. *Journal of Advances in Modeling Earth Systems (JAMES)*. [https://doi.org/10.22541/essoar.173160166.64258929/v1](https://doi.org/10.22541/essoar.173160166.64258929/v1)
 
 Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., and Tietsche, S. (2024). Robustness of AI-based weather forecasts in a changing climate. *arXiv preprint*. [https://arxiv.org/abs/2409.18529](https://arxiv.org/abs/2409.18529)
@@ -27,6 +25,8 @@ Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Cla
 
 2025
 ===
+[80] Segura, H., et al.,: nextGEMS: entering the era of kilometer-scale Earth system modeling, *Geosci. Model Dev.*, 18, 7735–7761, [https://doi.org/10.5194/gmd-18-7735-2025](https://doi.org/10.5194/gmd-18-7735-2025), 2025.
+
 [79] Pantiukhin D, Shapkin B, Kuznetsov I, Jost AA and **Koldunov N** (2025) Accelerating earth science discovery via multi-agent LLM systems. *Front. Artif. Intell.* 8:1674927. doi: [10.3389/frai.2025.1674927](https://doi.org/10.3389/frai.2025.1674927)
 
 [78] Kuznetsov, I., Jost, A.A., Pantiukhin, D., Shapkin, B., Jung. T., and **Koldunov N**. Transforming climate services with LLMs and multi-source data integration. *npj Clim. Action* 4, 97 (2025). [https://doi.org/10.1038/s44168-025-00300-y](https://doi.org/10.1038/s44168-025-00300-y)
