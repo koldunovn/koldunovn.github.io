@@ -25,7 +25,7 @@ Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Cla
 
 2026
 ====
-[82] Doblas-Reyes, et al.,: The Destination Earth digital twin for climate change adaptation, Geosci. Model Dev., 19, 2821–2848, [https://doi.org/10.5194/gmd-19-2821-2026](https://doi.org/10.5194/gmd-19-2821-2026), 2026.
+[82] Doblas-Reyes, et al.,: The Destination Earth digital twin for climate change adaptation, *Geosci. Model Dev.*, 19, 2821–2848, [https://doi.org/10.5194/gmd-19-2821-2026](https://doi.org/10.5194/gmd-19-2821-2026), 2026.
 
 [81] Koldunov, A., Sidorenko, D., **Koldunov, N.**, Danilov, S., & Scholz, P. (2026). Lorenz energy cycle of the global eddying ocean simulated on meshes with different designs and resolutions. *Journal of Advances in Modeling Earth Systems*, 18, e2025MS005551. [https://doi.org/10.1029/2025MS005551](https://doi.org/10.1029/2025MS005551)
 
