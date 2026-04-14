@@ -15,8 +15,6 @@ Pantiukhin, Dmitrii, Ivan Kuznetsov, Boris Shapkin, Antonia Anna Jost, Thomas Ju
 
 Ivan Kuznetsov, Jacopo Grassi, Dmitrii Pantiukhin, Boris Shapkin, Thomas Jung and **Nikolay Koldunov**. “Climate Knowledge in Large Language Models.” arXiv preprint [https://doi.org/10.48550/arXiv.2510.08043](https://doi.org/10.48550/arXiv.2510.08043). 
 
-Doblas-Reyes, et al.,: The Destination Earth digital twin for climate change adaptation, EGUsphere preprint, [https://doi.org/10.5194/egusphere-2025-2198](https://doi.org/10.5194/egusphere-2025-2198), 2025.
-
 Müller, V., Wang, Q., Koldunov, N. V., Danilov, S., & Jung, T. (2025). Characteristics of coherent Eddies in the Arctic Eurasian Basin Halocline inferred from a Model Simulation at 1-km Resolution. Authorea Preprints. [10.22541/essoar.175433986.68396763/v1](https://essopenarchive.org/users/887387/articles/1321085-characteristics-of-coherent-eddies-in-the-arctic-eurasian-basin-halocline-inferred-from-a-model-simulation-at-1-km-resolution)
 
 John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., **Koldunov, N. V.**, Pedruzo-Bagazgoitia, X., Rackow, T., Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T. (in review). Global Storyline Simulations at the Kilometre-scale. *Journal of Advances in Modeling Earth Systems (JAMES)*. [https://doi.org/10.22541/essoar.173160166.64258929/v1](https://doi.org/10.22541/essoar.173160166.64258929/v1)
@@ -27,6 +25,7 @@ Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Cla
 
 2026
 ====
+[82] Doblas-Reyes, et al.,: The Destination Earth digital twin for climate change adaptation, Geosci. Model Dev., 19, 2821–2848, [https://doi.org/10.5194/gmd-19-2821-2026](https://doi.org/10.5194/gmd-19-2821-2026), 2026.
 
 [81] Koldunov, A., Sidorenko, D., **Koldunov, N.**, Danilov, S., & Scholz, P. (2026). Lorenz energy cycle of the global eddying ocean simulated on meshes with different designs and resolutions. *Journal of Advances in Modeling Earth Systems*, 18, e2025MS005551. [https://doi.org/10.1029/2025MS005551](https://doi.org/10.1029/2025MS005551)
 
