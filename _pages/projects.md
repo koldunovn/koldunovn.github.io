@@ -10,18 +10,6 @@ author_profile: true
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/trr.png" alt="TRR181" style="width: 200px; margin-right: 20px;">
-    <div><strong><a href="https://www.trr-energytransfers.de/">TRR181</a></strong>: In this project, we aim to understand how energy is transferred between waves, eddies, and local turbulence in the ocean and atmosphere. I am part of the S1 project, “Diagnosis and Metrics in Climate Models.”
-</div>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <img src="../images/DestinE.png" alt="DestinE" style="width: 200px; margin-right: 20px;">
-    <div><strong><a href="https://destination-earth.eu/">Destination Earth, Climate Digital Twin</a></strong>: In this project, we are developing infrastructure to regularly perform kilometer-scale climate projections using coupled climate models. AWI contributes with a 5 km resolution IFS-FESOM setup. I lead Activity 6 (Simulations), co-lead Activity 5 (Climate Model Development) and Activity 11 (Demonstrators), and supervise AWI’s work in Activity 14 (Artificial Intelligence & Maestro Development).
-</div>
-</div>
-
-<div style="display: flex; align-items: center;">
     <img src="../images/terradt.png" alt="TerraDT" style="width: 200px; margin-right: 20px;">
     <div><strong><a href="https://www.terradt.eu/">TerraDT</a></strong>: In this project, we aim to enhance the DestinE infrastructure by adding to and improving the existing Earth system components of DestinE Digital Twins, with a particular focus on the cryosphere and land surface. This will improve the reliability of the climate projections and impact assessments of DestinE. I lead Pillar 5 (Cryosphere, WP11-13) and serve as a member of the TerraDT Project Management Board.
 </div>
@@ -34,6 +22,13 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: center;">
+    <img src="../images/copernicus.png" alt="Copernicus C3S" style="width: 200px; margin-right: 20px;">
+    <div><strong><a href="https://climate.copernicus.eu/">Copernicus Climate Data Store LLM Search</a></strong>: In this project, we develop an LLM-based search and discovery service for the Copernicus Climate Data Store (CDS), enabling users to find suitable climate datasets through natural-language queries, metadata interpretation, and fitness-for-purpose guidance. I contribute climate science expertise, and lead WP on the validation of scientifically grounded dataset recommendations and quality-assessment workflows.
+</div>
+</div>
+
+
+<div style="display: flex; align-items: center;">
     <img src="../images/elphe.png" alt="ELPHE" style="width: 200px; margin-right: 20px;">
     <div><strong><a href="">ELPHE</a></strong>: Enabling Lagrangian Particle Tracking for High-Resolution and Unstructured Meshes: In this project, led by GEOMAR, we aim to adapt <a href="https://oceanparcels.org/">Parcels</a> - a Lagrangian Ocean Analysis toolbox - to work with data from unstructured mesh ocean models FESOM2 and ICON-O. This is part of the <a href="https://www.warmworld.de/">WarmWorld</a> project. I provide FESOM2 simulations.
 </div>
@@ -42,16 +37,9 @@ author_profile: true
 </div>
 
 
-
 ## Internal funding
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
-
-<div style="display: flex; align-items: center;">
-    <img src="../images/awillm.png" alt="AWI LLMs" style="width: 200px; margin-right: 20px;">
-    <div><strong><a href="https://helmholtz.software/software/awi-gpt">AWI LLMs</a></strong>: I lead the activity in the development of four tools that use LLMs to enhance research and operations. <strong>pangaeaGPT</strong> aids dataset exploration, <strong><a href="https://destination-earth.eu/">ClimSight</a></strong> provides location-specific climate insights, <strong>AWI_chatbot</strong> streamlines internal tasks at AWI, and <strong>CMIP6 search</strong> improves access to CMIP6 data. The activity is funded by <a href="https://earth-data.de/">DataHub</a> and <a href="https://destination-earth.eu/">DestinE ClimateDT</a>.
-    </div>
-</div>
 
 <div style="display: flex; align-items: center;">
     <img src="../images/HClimRep.png" alt="HClimRep" style="width: 200px; margin-right: 20px;">
@@ -60,8 +48,6 @@ author_profile: true
 </div>
 
 </div>
-
-
 
 ## Finished projects
 
@@ -78,4 +64,23 @@ author_profile: true
     <div><strong><a href="https://eflows4hpc.eu/">eFlows4HPC</a></strong>: aims to deliver a workflow software stack and an additional set of services to enable the integration of HPC simulations and modelling with big data analytics and machine learning in scientific and industrial applications. I lead AWI’s contributions in WP5 (Pillar 2).
 </div>
 </div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/trr.png" alt="TRR181" style="width: 200px; margin-right: 20px;">
+    <div><strong><a href="https://www.trr-energytransfers.de/">TRR181</a></strong>: In this project, we aim to understand how energy is transferred between waves, eddies, and local turbulence in the ocean and atmosphere. I am part of the S1 project, “Diagnosis and Metrics in Climate Models.”
+</div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/DestinE.png" alt="DestinE" style="width: 200px; margin-right: 20px;">
+    <div><strong><a href="https://destination-earth.eu/">Destination Earth, Climate Digital Twin, Phase 2</a></strong>: In this project, we are developing infrastructure to regularly perform kilometer-scale climate projections using coupled climate models. AWI contributes with a 5 km resolution IFS-FESOM setup. I lead Activity 6 (Simulations), co-lead Activity 5 (Climate Model Development) and Activity 11 (Demonstrators), and supervise AWI’s work in Activity 14 (Artificial Intelligence & Maestro Development).
+</div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/awillm.png" alt="AWI LLMs" style="width: 200px; margin-right: 20px;">
+    <div><strong><a href="https://helmholtz.software/software/awi-gpt">AWI LLMs</a></strong>: I lead the activity in the development of four tools that use LLMs to enhance research and operations. <strong>pangaeaGPT</strong> aids dataset exploration, <strong><a href="https://destination-earth.eu/">ClimSight</a></strong> provides location-specific climate insights, <strong>AWI_chatbot</strong> streamlines internal tasks at AWI, and <strong>CMIP6 search</strong> improves access to CMIP6 data. The activity is funded by <a href="https://earth-data.de/">DataHub</a> and <a href="https://destination-earth.eu/">DestinE ClimateDT</a>.
+</div>
+</div>
+
 </div>
