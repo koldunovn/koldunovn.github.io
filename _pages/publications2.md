@@ -11,6 +11,8 @@ You can also find my articles on <i class="ai ai-google-scholar"></i> [my Google
 
 Preprints
 ===
+Nurisso, M., von Hardenberg, J., Cadau, M., Caprioli, S., Ghinassi, P., Ghosh, S., **Koldunov, N.**, Nazarova, N., Rajput, M. M., Tovazzi, E., and Davini, P.: AQUA v1: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2026-1115](https://doi.org/10.5194/egusphere-2026-1115), 2026.
+
 Pantiukhin, Dmitrii, Ivan Kuznetsov, Boris Shapkin, Antonia Anna Jost, Thomas Jung, and **Nikolay Koldunov**. "A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives." arXiv preprint arXiv:2602.21351 (2026) [https://doi.org/10.48550/arXiv.2602.21351](https://doi.org/10.48550/arXiv.2602.21351).
 
 Ivan Kuznetsov, Jacopo Grassi, Dmitrii Pantiukhin, Boris Shapkin, Thomas Jung and **Nikolay Koldunov**. “Climate Knowledge in Large Language Models.” arXiv preprint [https://doi.org/10.48550/arXiv.2510.08043](https://doi.org/10.48550/arXiv.2510.08043). 
