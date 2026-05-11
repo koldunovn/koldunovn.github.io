@@ -19,14 +19,14 @@ Ivan Kuznetsov, Jacopo Grassi, Dmitrii Pantiukhin, Boris Shapkin, Thomas Jung an
 
 Müller, V., Wang, Q., Koldunov, N. V., Danilov, S., & Jung, T. (2025). Characteristics of coherent Eddies in the Arctic Eurasian Basin Halocline inferred from a Model Simulation at 1-km Resolution. Authorea Preprints. [10.22541/essoar.175433986.68396763/v1](https://essopenarchive.org/users/887387/articles/1321085-characteristics-of-coherent-eddies-in-the-arctic-eurasian-basin-halocline-inferred-from-a-model-simulation-at-1-km-resolution)
 
-John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., **Koldunov, N. V.**, Pedruzo-Bagazgoitia, X., Rackow, T., Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T. (in review). Global Storyline Simulations at the Kilometre-scale. *Journal of Advances in Modeling Earth Systems (JAMES)*. [https://doi.org/10.22541/essoar.173160166.64258929/v1](https://doi.org/10.22541/essoar.173160166.64258929/v1)
-
 Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., and Tietsche, S. (2024). Robustness of AI-based weather forecasts in a changing climate. *arXiv preprint*. [https://arxiv.org/abs/2409.18529](https://arxiv.org/abs/2409.18529)
 
 **Koldunov, N.**, Rackow, T., Lessig, C., Danilov, S., Cheedela, S. K., Sidorenko, D., Sandu, I., and Jung, T. (2024). Emerging AI-based weather prediction models as downscaling tools. *arXiv preprint*. [https://arxiv.org/abs/2406.17977](https://arxiv.org/abs/2406.17977)
 
 2026
 ====
+[83] John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., **Koldunov, N. V.**, Pedruzo-Bagazgoitia, X., Rackow, T., Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T. Global kilometer-scale climate storylines using spectral nudging. *Journal of Advances in Modeling Earth Systems (JAMES)*, 18, e2025MS005326. [https://doi.org/10.1029/2025MS005326](https://doi.org/10.1029/2025MS005326)
+
 [82] Doblas-Reyes, et al.,: The Destination Earth digital twin for climate change adaptation, *Geosci. Model Dev.*, 19, 2821–2848, [https://doi.org/10.5194/gmd-19-2821-2026](https://doi.org/10.5194/gmd-19-2821-2026), 2026.
 
 [81] Koldunov, A., Sidorenko, D., **Koldunov, N.**, Danilov, S., & Scholz, P. (2026). Lorenz energy cycle of the global eddying ocean simulated on meshes with different designs and resolutions. *Journal of Advances in Modeling Earth Systems*, 18, e2025MS005551. [https://doi.org/10.1029/2025MS005551](https://doi.org/10.1029/2025MS005551)
