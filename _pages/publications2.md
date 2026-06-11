@@ -11,7 +11,7 @@ You can also find my articles on <i class="ai ai-google-scholar"></i> [my Google
 
 Preprints
 ===
-**Koldunov, N. V.**, Cheedela, S. K., Danilov, S., Sidorenko, D., Beyer, S., & Jung, T. (2026). An ocean model ported by a large language model: Experience and lessons from FESOM2 (Fortran to C to C++/Kokkos). arXiv. https://doi.org/10.48550/arXiv.2606.11356
+**Koldunov, N. V.**, Cheedela, S. K., Danilov, S., Sidorenko, D., Beyer, S., & Jung, T. (2026). An ocean model ported by a large language model: Experience and lessons from FESOM2 (Fortran to C to C++/Kokkos). arXiv. [https://doi.org/10.48550/arXiv.2606.11356](https://doi.org/10.48550/arXiv.2606.11356)
 
 Ghosh, R., Cheedela, S. K., Beyer, S., **Koldunov, N.**, Berzina, S., Delpech, A., Loza, S., Wikramage, C., Libera, S., Aengenheyster, M., John, A., Remedio, A., Scholz, P., Sidorenko, D., Streffing, J., Wachsmann, F., and Jung, T.: Century-long kilometre-scale Ocean eddy-rich global climate simulation with the coupled IFS CY48R1 – FESOM 2.5 model, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2026-1289](https://doi.org/10.5194/egusphere-2026-1289), 2026.
 
