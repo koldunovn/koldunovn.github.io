@@ -15,25 +15,6 @@ author_profile: true
 </div>
 </div>
 
-<div style="display: flex; align-items: center;">
-    <img src="../images/eerie.png" alt="EERIE" style="width: 200px; margin-right: 20px;">
-    <div><strong><a href="https://eerie-project.eu/">EERIE</a></strong>: In this project, we are developing coupled models with a 10 km resolution in both the atmosphere and ocean, enabling century-long simulations. The goal is to investigate how resolving ocean mesoscale processes impacts the global climate, both in the present and the future. I am a member of the EERIE Steering Committee and co-lead WP11 (Development of efficient and portable workflows and diagnostics for ER-ESMs).
-</div>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <img src="../images/copernicus.png" alt="Copernicus C3S" style="width: 200px; margin-right: 20px;">
-    <div><strong><a href="https://climate.copernicus.eu/">Copernicus Climate Data Store LLM Search</a></strong>: In this project, we develop an LLM-based search and discovery service for the Copernicus Climate Data Store (CDS), enabling users to find suitable climate datasets through natural-language queries, metadata interpretation, and fitness-for-purpose guidance. I contribute climate science expertise, and lead WP on the validation of scientifically grounded dataset recommendations and quality-assessment workflows.
-</div>
-</div>
-
-
-<div style="display: flex; align-items: center;">
-    <img src="../images/elphe.png" alt="ELPHE" style="width: 200px; margin-right: 20px;">
-    <div><strong><a href="">ELPHE</a></strong>: Enabling Lagrangian Particle Tracking for High-Resolution and Unstructured Meshes: In this project, led by GEOMAR, we aim to adapt <a href="https://oceanparcels.org/">Parcels</a> - a Lagrangian Ocean Analysis toolbox - to work with data from unstructured mesh ocean models FESOM2 and ICON-O. This is part of the <a href="https://www.warmworld.de/">WarmWorld</a> project. I provide FESOM2 simulations.
-</div>
-</div>
-
   <div style="display: flex; align-items: center;">
       <img src="../images/earthgenerator.png" alt="EarthGenerator" style="width: 200px; margin-right: 20px;">
       <div><strong><a href="">EarthGenerator</a></strong>: In this project, we build a machine-learning foundation
@@ -44,6 +25,24 @@ author_profile: true
   datasets and builds the Unified Access API that feeds the model; AWI also leads the project's Data Management Plan.
   </div>
   </div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/copernicus.png" alt="Copernicus C3S" style="width: 200px; margin-right: 20px;">
+    <div><strong><a href="https://climate.copernicus.eu/">Copernicus Climate Data Store LLM Search</a></strong>: In this project, we develop an LLM-based search and discovery service for the Copernicus Climate Data Store (CDS), enabling users to find suitable climate datasets through natural-language queries, metadata interpretation, and fitness-for-purpose guidance. I contribute climate science expertise, and lead WP on the validation of scientifically grounded dataset recommendations and quality-assessment workflows.
+</div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/eerie.png" alt="EERIE" style="width: 200px; margin-right: 20px;">
+    <div><strong><a href="https://eerie-project.eu/">EERIE</a></strong>: In this project, we are developing coupled models with a 10 km resolution in both the atmosphere and ocean, enabling century-long simulations. The goal is to investigate how resolving ocean mesoscale processes impacts the global climate, both in the present and the future. I am a member of the EERIE Steering Committee and co-lead WP11 (Development of efficient and portable workflows and diagnostics for ER-ESMs).
+</div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/elphe.png" alt="ELPHE" style="width: 200px; margin-right: 20px;">
+    <div><strong><a href="">ELPHE</a></strong>: Enabling Lagrangian Particle Tracking for High-Resolution and Unstructured Meshes: In this project, led by GEOMAR, we aim to adapt <a href="https://oceanparcels.org/">Parcels</a> - a Lagrangian Ocean Analysis toolbox - to work with data from unstructured mesh ocean models FESOM2 and ICON-O. This is part of the <a href="https://www.warmworld.de/">WarmWorld</a> project. I provide FESOM2 simulations.
+</div>
+</div>
 
 </div>
 
