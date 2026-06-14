@@ -34,6 +34,17 @@ author_profile: true
 </div>
 </div>
 
+  <div style="display: flex; align-items: center;">
+      <img src="../images/earthgenerator.png" alt="EarthGenerator" style="width: 200px; margin-right: 20px;">
+      <div><strong><a href="">EarthGenerator</a></strong>: In this project, we build a machine-learning foundation
+  model for the whole Earth system, extending the WeatherGenerator to represent the ocean, land surface, and society
+  alongside the atmosphere. The model is trained on a broad mix of reanalyses, high-resolution climate simulations,
+  and observations, and can then be adapted to a wide range of downstream applications, from extreme events to food
+  security. I co-lead Theme 1 (Foundational Data Scaffolding and Curation), which collects and curates the training
+  datasets and builds the Unified Access API that feeds the model; AWI also leads the project's Data Management Plan.
+  </div>
+  </div>
+
 </div>
 
 
