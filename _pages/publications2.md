@@ -11,6 +11,8 @@ You can also find my articles on <i class="ai ai-google-scholar"></i> [my Google
 
 Preprints
 ===
+Dueben, P., Bauer, P., Fuhrer, O., **Koldunov, N.**, & Kristiansen, J. (2026). Machine learning is revolutionizing weather forecasting: The next step is a change in how we work. arXiv. [https://doi.org/10.48550/arXiv.2606.25076](https://doi.org/10.48550/arXiv.2606.25076)
+
 Pantiukhin, D., Shapkin, B., Kuznetsov, I., Jung, T., & **Koldunov, N.** (2026). CMIP-Forge: An agentic system that retrieves, computes, and self-reviews climate science. arXiv. [https://doi.org/10.48550/arXiv.2606.17076](https://doi.org/10.48550/arXiv.2606.17076)
 
 **Koldunov, N. V.**, Cheedela, S. K., Danilov, S., Sidorenko, D., Beyer, S., & Jung, T. (2026). An ocean model ported by a large language model: Experience and lessons from FESOM2 (Fortran to C to C++/Kokkos). arXiv. [https://doi.org/10.48550/arXiv.2606.11356](https://doi.org/10.48550/arXiv.2606.11356)
