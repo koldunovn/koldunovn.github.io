@@ -23,8 +23,6 @@ Ghosh, R., Cheedela, S. K., Beyer, S., **Koldunov, N.**, Berzina, S., Delpech, A
 
 Henn, B., Bretherton, C. S., **Kodunov, N.**, Lessig, C., Molina, M. J., Arcomano, T., Watt-Meyer, O., Couairon, G., Singh, R., Brunstein, R., Hasson, Y., Jost, A., Brenowitz, N., Manshausen, P., Cresswell-Clay, N., Durran, D., Hall, K. J. C., Yuval, J., Kochkov, D., Hoyer, S., & Lopez-Gomez, I. (2026). AIMIP Phase 1: systematic evaluations of AI weather and climate models. arXiv preprint arXiv:2605.06944. [https://arxiv.org/abs/2605.06944](https://arxiv.org/abs/2605.06944)
 
-Nurisso, M., von Hardenberg, J., Cadau, M., Caprioli, S., Ghinassi, P., Ghosh, S., **Koldunov, N.**, Nazarova, N., Rajput, M. M., Tovazzi, E., and Davini, P.: AQUA v1: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2026-1115](https://doi.org/10.5194/egusphere-2026-1115), 2026.
-
 Pantiukhin, Dmitrii, Ivan Kuznetsov, Boris Shapkin, Antonia Anna Jost, Thomas Jung, and **Nikolay Koldunov**. "A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives." arXiv preprint arXiv:2602.21351 (2026) [https://doi.org/10.48550/arXiv.2602.21351](https://doi.org/10.48550/arXiv.2602.21351).
 
 Ivan Kuznetsov, Jacopo Grassi, Dmitrii Pantiukhin, Boris Shapkin, Thomas Jung and **Nikolay Koldunov**. “Climate Knowledge in Large Language Models.” arXiv preprint [https://doi.org/10.48550/arXiv.2510.08043](https://doi.org/10.48550/arXiv.2510.08043). 
@@ -35,6 +33,8 @@ Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Cla
 
 2026
 ====
+[85] Nurisso, M., von Hardenberg, J., Cadau, M., Caprioli, S., Ghinassi, P., Ghosh, S., **Koldunov, N.**, Nazarova, N., Rajput, M. M., Tovazzi, E., and Davini, P.: AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine, Geosci. Model Dev., 19, 7725–7740, [https://doi.org/10.5194/gmd-19-7725-2026](https://doi.org/10.5194/gmd-19-7725-2026), 2026.
+
 [84] Müller, V., Danilov, S., Jung, T., **Koldunov, N.**, & Wang, Q. (2026). Characteristics of coherent eddies in the Arctic Eurasian Basin halocline inferred from a model simulation at 1-km resolution. Journal of Geophysical Research: Oceans, 131, e2025JC023217. [https://doi.org/10.1029/2025JC023217](https://doi.org/10.1029/2025JC023217)
 
 [83] John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., **Koldunov, N. V.**, Pedruzo-Bagazgoitia, X., Rackow, T., Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T. Global kilometer-scale climate storylines using spectral nudging. *Journal of Advances in Modeling Earth Systems (JAMES)*, 18, e2025MS005326. [https://doi.org/10.1029/2025MS005326](https://doi.org/10.1029/2025MS005326)
