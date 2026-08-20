@@ -33,9 +33,9 @@ Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Cla
 
 2026
 ====
-[85] Nurisso, M., von Hardenberg, J., Cadau, M., Caprioli, S., Ghinassi, P., Ghosh, S., **Koldunov, N.**, Nazarova, N., Rajput, M. M., Tovazzi, E., and Davini, P.: AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine, Geosci. Model Dev., 19, 7725–7740, [https://doi.org/10.5194/gmd-19-7725-2026](https://doi.org/10.5194/gmd-19-7725-2026), 2026.
+[85] Nurisso, M., von Hardenberg, J., Cadau, M., Caprioli, S., Ghinassi, P., Ghosh, S., **Koldunov, N.**, Nazarova, N., Rajput, M. M., Tovazzi, E., and Davini, P.: AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine, *Geosci. Model Dev.*, 19, 7725–7740, [https://doi.org/10.5194/gmd-19-7725-2026](https://doi.org/10.5194/gmd-19-7725-2026), 2026.
 
-[84] Müller, V., Danilov, S., Jung, T., **Koldunov, N.**, & Wang, Q. (2026). Characteristics of coherent eddies in the Arctic Eurasian Basin halocline inferred from a model simulation at 1-km resolution. Journal of Geophysical Research: Oceans, 131, e2025JC023217. [https://doi.org/10.1029/2025JC023217](https://doi.org/10.1029/2025JC023217)
+[84] Müller, V., Danilov, S., Jung, T., **Koldunov, N.**, & Wang, Q. (2026). Characteristics of coherent eddies in the Arctic Eurasian Basin halocline inferred from a model simulation at 1-km resolution. *Journal of Geophysical Research: Oceans*, 131, e2025JC023217. [https://doi.org/10.1029/2025JC023217](https://doi.org/10.1029/2025JC023217)
 
 [83] John, A., Beyer, S., Athanase, M., Sanchez-Benítez, A., Goessling, H. F., Hossain, A., Nurisso, M., Aguridan, R., Andrés-Martínez, M., Gaya-Àvila, A., Cheedela, S. K., Geier, P., Ghosh, R., Hadade, I., **Koldunov, N. V.**, Pedruzo-Bagazgoitia, X., Rackow, T., Sandu, I., Sidorenko, D., Streffing, J., Vitali, E., and Jung, T. Global kilometer-scale climate storylines using spectral nudging. *Journal of Advances in Modeling Earth Systems (JAMES)*, 18, e2025MS005326. [https://doi.org/10.1029/2025MS005326](https://doi.org/10.1029/2025MS005326)
 
