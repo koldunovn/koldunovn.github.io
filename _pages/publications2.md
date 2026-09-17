@@ -13,8 +13,6 @@ Preprints
 ===
 **Koldunov, N. V.**, Danilov, S., Cheedela, S., Sidorenko, D., Beyer, S., Scholz, P., Kuznetsov, I., Streffing, J., Koldunov, A., Pantiukhin, D., Loza, S. N., & Jung, T. (2026). FESOM2-JAX v1.0: A differentiable shadow of the ocean–sea-ice model FESOM2, cast onto GPUs. arXiv. [https://doi.org/10.48550/arXiv.2608.01546](https://doi.org/10.48550/arXiv.2608.01546)
 
-Dueben, P., Bauer, P., Fuhrer, O., **Koldunov, N.**, & Kristiansen, J. (2026). Machine learning is revolutionizing weather forecasting: The next step is a change in how we work. arXiv. [https://doi.org/10.48550/arXiv.2606.25076](https://doi.org/10.48550/arXiv.2606.25076)
-
 Pantiukhin, D., Shapkin, B., Kuznetsov, I., Jung, T., & **Koldunov, N.** (2026). CMIP-Forge: An agentic system that retrieves, computes, and self-reviews climate science. arXiv. [https://doi.org/10.48550/arXiv.2606.17076](https://doi.org/10.48550/arXiv.2606.17076)
 
 **Koldunov, N. V.**, Cheedela, S. K., Danilov, S., Sidorenko, D., Beyer, S., & Jung, T. (2026). An ocean model ported by a large language model: Experience and lessons from FESOM2 (Fortran to C to C++/Kokkos). arXiv. [https://doi.org/10.48550/arXiv.2606.11356](https://doi.org/10.48550/arXiv.2606.11356)
@@ -33,6 +31,8 @@ Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Cla
 
 2026
 ====
+[86] Dueben, P., Bauer, P., Fuhrer, O., **Koldunov, N.**, & Kristiansen, J. (2026). Machine learning is revolutionizing weather forecasting - the next step is a change in *how* we work. [https://doi.org/10.1016/j.jemets.2026.100050](https://doi.org/10.1016/j.jemets.2026.100050)
+
 [85] Nurisso, M., von Hardenberg, J., Cadau, M., Caprioli, S., Ghinassi, P., Ghosh, S., **Koldunov, N.**, Nazarova, N., Rajput, M. M., Tovazzi, E., and Davini, P.: AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine, *Geosci. Model Dev.*, 19, 7725–7740, [https://doi.org/10.5194/gmd-19-7725-2026](https://doi.org/10.5194/gmd-19-7725-2026), 2026.
 
 [84] Müller, V., Danilov, S., Jung, T., **Koldunov, N.**, & Wang, Q. (2026). Characteristics of coherent eddies in the Arctic Eurasian Basin halocline inferred from a model simulation at 1-km resolution. *Journal of Geophysical Research: Oceans*, 131, e2025JC023217. [https://doi.org/10.1029/2025JC023217](https://doi.org/10.1029/2025JC023217)
