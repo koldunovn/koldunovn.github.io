@@ -31,7 +31,7 @@ Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Cla
 
 2026
 ====
-[86] Dueben, P., Bauer, P., Fuhrer, O., **Koldunov, N.**, & Kristiansen, J. (2026). Machine learning is revolutionizing weather forecasting - the next step is a change in *how* we work. [https://doi.org/10.1016/j.jemets.2026.100050](https://doi.org/10.1016/j.jemets.2026.100050)
+[86] Dueben, P., Bauer, P., Fuhrer, O., **Koldunov, N.**, & Kristiansen, J. (2026). Machine learning is revolutionizing weather forecasting - the next step is a change in *how* we work. *Journal of the European Meteorological Society*, volume 5, 100050. [https://doi.org/10.1016/j.jemets.2026.100050](https://doi.org/10.1016/j.jemets.2026.100050)
 
 [85] Nurisso, M., von Hardenberg, J., Cadau, M., Caprioli, S., Ghinassi, P., Ghosh, S., **Koldunov, N.**, Nazarova, N., Rajput, M. M., Tovazzi, E., and Davini, P.: AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine, *Geosci. Model Dev.*, 19, 7725–7740, [https://doi.org/10.5194/gmd-19-7725-2026](https://doi.org/10.5194/gmd-19-7725-2026), 2026.
 
