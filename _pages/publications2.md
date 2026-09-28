@@ -11,6 +11,8 @@ You can also find my articles on <i class="ai ai-google-scholar"></i> [my Google
 
 Preprints
 ===
+Nowak, K., Koldunov, A., **Koldunov, N.**, Melidonis, S., Patnala, A., Grasse, S., Polz, J., Lessig, C., Schultz, M., & Jung, T. (2026). HClimRep-Ocean: A global ocean emulator on an unstructured mesh. arXiv. [https://doi.org/10.48550/arXiv.2609.28601](https://doi.org/10.48550/arXiv.2609.28601)
+
 **Koldunov, N. V.**, Danilov, S., Cheedela, S., Sidorenko, D., Beyer, S., Scholz, P., Kuznetsov, I., Streffing, J., Koldunov, A., Pantiukhin, D., Loza, S. N., & Jung, T. (2026). FESOM2-JAX v1.0: A differentiable shadow of the ocean–sea-ice model FESOM2, cast onto GPUs. arXiv. [https://doi.org/10.48550/arXiv.2608.01546](https://doi.org/10.48550/arXiv.2608.01546)
 
 Pantiukhin, D., Shapkin, B., Kuznetsov, I., Jung, T., & **Koldunov, N.** (2026). CMIP-Forge: An agentic system that retrieves, computes, and self-reviews climate science. arXiv. [https://doi.org/10.48550/arXiv.2606.17076](https://doi.org/10.48550/arXiv.2606.17076)
