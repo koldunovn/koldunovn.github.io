@@ -25,14 +25,14 @@ Henn, B., Bretherton, C. S., **Kodunov, N.**, Lessig, C., Molina, M. J., Arcoman
 
 Pantiukhin, Dmitrii, Ivan Kuznetsov, Boris Shapkin, Antonia Anna Jost, Thomas Jung, and **Nikolay Koldunov**. "A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives." arXiv preprint arXiv:2602.21351 (2026) [https://doi.org/10.48550/arXiv.2602.21351](https://doi.org/10.48550/arXiv.2602.21351).
 
-Ivan Kuznetsov, Jacopo Grassi, Dmitrii Pantiukhin, Boris Shapkin, Thomas Jung and **Nikolay Koldunov**. “Climate Knowledge in Large Language Models.” arXiv preprint [https://doi.org/10.48550/arXiv.2510.08043](https://doi.org/10.48550/arXiv.2510.08043). 
-
 Rackow, T., **Koldunov, N.**, Lessig, C., Sandu, I., Alexe, M., Chantry, M., Clare, M., Dramsch, J., Pappenberger, F., Pedruzo-Bagazgoitia, X., and Tietsche, S. (2024). Robustness of AI-based weather forecasts in a changing climate. *arXiv preprint*. [https://arxiv.org/abs/2409.18529](https://arxiv.org/abs/2409.18529)
 
 **Koldunov, N.**, Rackow, T., Lessig, C., Danilov, S., Cheedela, S. K., Sidorenko, D., Sandu, I., and Jung, T. (2024). Emerging AI-based weather prediction models as downscaling tools. *arXiv preprint*. [https://arxiv.org/abs/2406.17977](https://arxiv.org/abs/2406.17977)
 
 2026
 ====
+[87] Kuznetsov, I., J. Grassi, D. Pantiukhin, B. Shapkin, T. Jung, and **N. Koldunov**, 2026: Climate Knowledge in Large Language Models. *Artif. Intell. Earth Syst.*, , e260017, [https://doi.org/10.1175/AIES-D-26-0017.1](https://doi.org/10.1175/AIES-D-26-0017.1), in press.
+
 [86] Dueben, P., Bauer, P., Fuhrer, O., **Koldunov, N.**, & Kristiansen, J. (2026). Machine learning is revolutionizing weather forecasting - the next step is a change in *how* we work. *Journal of the European Meteorological Society*, volume 5, 100050. [https://doi.org/10.1016/j.jemets.2026.100050](https://doi.org/10.1016/j.jemets.2026.100050)
 
 [85] Nurisso, M., von Hardenberg, J., Cadau, M., Caprioli, S., Ghinassi, P., Ghosh, S., **Koldunov, N.**, Nazarova, N., Rajput, M. M., Tovazzi, E., and Davini, P.: AQUA v1.0.0: The Application for QUality Assessment for the Climate Change Adaptation Digital Twin – the core engine, *Geosci. Model Dev.*, 19, 7725–7740, [https://doi.org/10.5194/gmd-19-7725-2026](https://doi.org/10.5194/gmd-19-7725-2026), 2026.
