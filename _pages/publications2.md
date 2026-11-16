@@ -11,6 +11,8 @@ You can also find my articles on <i class="ai ai-google-scholar"></i> [my Google
 
 Preprints
 ===
+Kuznetsov, I., Androsov, A., Pantiukhin, D., Wekerle, C., Danilov, S., Jung, T., & **Koldunov, N.** (2026). KELP v1.0: An agent-ready Lagrangian particle tracker for unstructured meshes and HEALPix grids. arXiv. [https://doi.org/10.48550/arXiv.2611.18528](https://doi.org/10.48550/arXiv.2611.18528)
+
 Cheedela, S. K., **Koldunov, N. V.**, Danilov, S., Streffing, J., Sidorenko, D., & Jung, T. (2026). FESOM2.8 in single precision: Climate fidelity over six decades and performance on CPUs and GPUs. arXiv. [https://doi.org/10.48550/arXiv.2611.11248](https://doi.org/10.48550/arXiv.2611.11248)
 
 Watson-Parris, D., Tobin, W., Paçal, A., Schlund, M., Balaji, V., Bowman, K., Bretherton, C., Caldwell, P. M., Chapman, W., Collins, W. D., Elsaesser, G. S., Gentine, P., Hewitt, H., Hoyer, S., Keeling, R., **Koldunov, N.**, Lawrence, D. M., Lessig, C., Lunt, D. J., Neelin, J. D., Pritchard, M., Purkey, S., Schmidt, G., Schneider, T., Schulz, M., Shaw, T., Simpson, I. R., Stephens, G., Subramanian, A. C., Teixeira, J., Tierney, J., Williams, A. I. L., Zanna, L., Eyring, V., & Yu, R. (2026). ClimateBench v2.0: Probabilistic climate model benchmarking. arXiv. [https://doi.org/10.48550/arXiv.2610.04558](https://doi.org/10.48550/arXiv.2610.04558)
